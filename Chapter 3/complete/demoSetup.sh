@@ -5,3 +5,6 @@ docker compose -f ./phptdd/docker/docker-compose.yml up -d
 
 #List All Containers
 docker ps
+
+#List All Containers
+docker ps
